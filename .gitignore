@@ -3,3 +3,4 @@ time_tracker.db
 /dist
 *.bat
 TimeTrackerApp.spec
+/SANDBOX
